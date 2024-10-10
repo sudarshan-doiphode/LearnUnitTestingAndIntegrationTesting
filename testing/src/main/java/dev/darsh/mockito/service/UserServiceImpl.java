@@ -18,7 +18,7 @@ public class UserServiceImpl implements UserService{
     public User saveUser(int id, String username, String address){
         User user = new User();
         if(id>0){
-            user.setId(1);
+            user.setId(id);
         }
         if(!username.isBlank()){
             user.setName(username);

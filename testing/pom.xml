@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>dev.darsh</groupId>
-	<artifactId>springboot-testing</artifactId>
+	<artifactId>testing</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springboot-testing</name>
+	<name>testing</name>
 	<description>This repo focuses on unit testing examples</description>
 	<url/>
 	<licenses>
